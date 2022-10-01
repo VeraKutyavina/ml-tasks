@@ -4,7 +4,7 @@ Homework for the Machine Learning course
 
 ## Homework_1.ipynb
 
-Deadlint: 12.09.2022
+Deadline: 12.09.2022
 
 Tasks
 1. Распределение выживших среди мужчин и женщин по классу билета.
@@ -13,7 +13,7 @@ Tasks
 
 ## Homework_1.ipynb
 
-Deadlint: 03.10.2022
+Deadline: 03.10.2022
 
 Task
 1. k-mean алгоритм
