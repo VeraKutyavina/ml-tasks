@@ -17,3 +17,10 @@ Deadline: 03.10.2022
 
 Task
 1. k-means алгоритм
+
+## dbscan.ipynb
+
+Deadline: 24.10.2022
+
+Task
+1. k-means алгоритм
