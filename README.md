@@ -23,4 +23,4 @@ Task
 Deadline: 24.10.2022
 
 Task
-1. k-means алгоритм
+1. dbscan алгоритм
